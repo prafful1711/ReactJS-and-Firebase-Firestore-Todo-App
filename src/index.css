@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Raleway:wght@300&family=Roboto:wght@300&display=swap");
+
+.todo-container{
+  margin-left: 150px;
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 100px;
+  font-weight: 800;
+  font-family: "Josefin Sans", "Arial Narrow", Arial, sans-serif;
+
+}
+
+.formArea{
+  margin-left: 100px;
+}
+
+.title {
+  margin-left: 150px;
+   font-family: "Josefin Sans", "Arial Narrow", Arial, sans-serif;
+}
+
